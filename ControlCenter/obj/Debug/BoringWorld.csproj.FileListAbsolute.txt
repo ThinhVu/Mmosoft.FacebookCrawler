@@ -1,0 +1,6 @@
+E:\Code\dotNET\FbFarm\Bin\BoringWorld.exe.config
+E:\Code\dotNET\FbFarm\ControlCenter\obj\Debug\BoringWorld.csprojResolveAssemblyReference.cache
+E:\Code\dotNET\FbFarm\Bin\BoringWorld.exe
+E:\Code\dotNET\FbFarm\Bin\BoringWorld.pdb
+E:\Code\dotNET\FbFarm\ControlCenter\obj\Debug\BoringWorld.exe
+E:\Code\dotNET\FbFarm\ControlCenter\obj\Debug\BoringWorld.pdb

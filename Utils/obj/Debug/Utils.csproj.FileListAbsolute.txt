@@ -1,0 +1,5 @@
+E:\Code\dotNET\FbFarm\Utils\bin\Debug\FbFarm.Utils.dll
+E:\Code\dotNET\FbFarm\Utils\bin\Debug\FbFarm.Utils.pdb
+E:\Code\dotNET\FbFarm\Utils\bin\Debug\HtmlAgilityPack.dll
+E:\Code\dotNET\FbFarm\Utils\obj\Debug\FbFarm.Utils.dll
+E:\Code\dotNET\FbFarm\Utils\obj\Debug\FbFarm.Utils.pdb

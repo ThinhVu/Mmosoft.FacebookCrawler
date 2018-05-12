@@ -1,0 +1,13 @@
+# Visual studio
+*.vs
+*.suo
+
+
+# Output
+Sdk\bin\*
+Sdk\obj\*
+ControlCenter\bin\*
+ControlCenter\obj\*
+
+# Data
+Bin\Session

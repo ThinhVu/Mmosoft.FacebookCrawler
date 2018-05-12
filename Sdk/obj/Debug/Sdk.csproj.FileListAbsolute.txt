@@ -1,0 +1,5 @@
+E:\Code\dotNET\FbFarm\Sdk\obj\Debug\Sdk.csprojResolveAssemblyReference.cache
+E:\Code\dotNET\FbFarm\Bin\FbFarm.Sdk.dll
+E:\Code\dotNET\FbFarm\Bin\FbFarm.Sdk.pdb
+E:\Code\dotNET\FbFarm\Sdk\obj\Debug\FbFarm.Sdk.dll
+E:\Code\dotNET\FbFarm\Sdk\obj\Debug\FbFarm.Sdk.pdb
