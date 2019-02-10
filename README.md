@@ -21,12 +21,14 @@ I. Solution hierarchy
 A console application which will using Facebook SDK lib to crawler data from FB.
 
 Classes:	
+
 	+ FbFarmer: Facebook farmers in a farm, a 'human' wrapper for Facebook SDK
 	+ ProductStore: a house contain product after harvest.
 	+ SeedStore: a house contain seed to supply for farmers.
 	+ FacebookFarm: A farm which contains SeedStore, ProductStore and a lot of farmers.
 	
 Folders:
+
 	+ Bin\Data : Contain data which control center need to use.	
 	+ Localization folder : Contain any language file. These files contains display text in Facebook for any language using for extract value.		
 	+ Farmers.txt : Contains Facebook accounts which use for Facebook sdk.
