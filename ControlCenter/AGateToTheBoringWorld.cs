@@ -8,11 +8,11 @@ using FbFarm.Sdk.Models.User;
 
 namespace BoringWorld
 {
-    // Your clone established a farm (which produce various kind weird of foods) in the boring world.
-    // Your clone hire a women to manage your farm, but she don't know what to do, so she always asking you.
-    // Your clone is the boss of this farm, your clone have responsibility to launch, pause your farm.
+    // Your clone established a farm that produces various kinds of weird food in the boring world.
+    // Your clone hired a woman to manage the farm, but she doesn’t know what to do, so she always asks you for guidance.
+    // Your clone is the boss of this farm and has the responsibility to launch or pause its operations.
     // Remember that:
-    // You are not live in the boring world, just a kind of...your clone.
+    // You do not live in the boring world—this is just your clone.
     public static class YourClone
     {
         public static Farm EstablishFarm()
@@ -45,7 +45,7 @@ namespace BoringWorld
 
             while (true)
             {
-                YoungManager.Say("Execute me! Should we start harvest now? [Yes/No]");
+                YoungManager.Say("Excuse me! Should we start the harvest now? [Yes/No]");
                 string yourAnswer = YourClone.GiveHerAnAnswer();
                 if (yourAnswer.Equals("Yes"))
                 {
